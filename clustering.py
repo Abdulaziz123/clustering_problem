@@ -5,7 +5,7 @@ import cv2
 %matplotlib
   
 # Read in the image 
-image = cv2.imread('wyfeP6wI.png') # 147I47V8.png, d5U0zccs.png
+image = cv2.imread('wyfeP6wI.png') # 147I47V8.png, # d5U0zccs.png
   
 # Change color to RGB (from BGR) 
 image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB) 
